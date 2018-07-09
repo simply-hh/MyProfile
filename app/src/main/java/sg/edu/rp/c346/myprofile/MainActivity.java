@@ -45,5 +45,6 @@ public class MainActivity extends AppCompatActivity {
         prefEdit.putFloat("gpa", floatGPA);
         prefEdit.putInt("gender", intId);
         prefEdit.commit();
+        //ayy de la lmao
     }
 }
